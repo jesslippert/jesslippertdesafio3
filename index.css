@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-fon-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body {
+  text-align: center;
+  margin-top: 160px;
+  background-image: url(https://i.ibb.co/0XyNQG0/background-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+h1 {
+  color: #EBF1FB;
+    border-radius: nullpx;
+      font-family: Beth Ellen, cursive; 
+      font-size: 64px;
+      font-weight: 400;
+      letter-spacing: 0em;
+      text-align: center;
+}
+
+h1 span { 
+  color: #5EEAD4;
+}
+
+h3 {
+  color: #EBF1FB;
+   
+    border-radius: nullpx;
+      font-family: Spectral;
+      font-size: 20px;
+      font-weight: 500;
+      letter-spacing: 0em;
+      text-align: center;    
+      margin-bottom: 72px;    
+}
+
+a {
+  color: #EBF1FB;
+  text-decoration: none;
+    border-radius: nullpx;
+      font-family: Spectral;
+      font-size: 24px;
+      font-weight: 600;
+      letter-spacing: 0em;
+      text-align: center;
+}
+
+a:hover,
+.btn-primary {
+  color: #0B0C0E;
+  background-color: #5EEAD4;
+  text-decoration: none;
+    border-radius: 8px;
+    padding: 16px 32px 16px 32px;
+}
+
